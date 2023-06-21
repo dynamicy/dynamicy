@@ -48,3 +48,9 @@
 ## Contributions
   * https://github.com/googlemaps/android-maps-utils/pull/535
   * https://github.com/TheCodedSelf/SwiftCron/pull/21
+
+## Personal Interests
+![2017_Kyoto](https://github.com/dynamicy/dynamicy/blob/main/2017_kyoto_marathon.jpeg?raw=true)
+![2017_taipei](https://github.com/dynamicy/dynamicy/blob/main/2017_taipei_marathon.jpeg?raw=true)
+![2018_kobe](https://github.com/dynamicy/dynamicy/blob/main/2018_kobe_marathon.jpeg?raw=true)
+![2018_taipei](https://github.com/dynamicy/dynamicy/blob/main/2018_taipei_marathon.jpeg?raw=true)
