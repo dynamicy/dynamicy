@@ -24,7 +24,7 @@
 
 ## Technical Skills & Competencies
   * Mongodb & MySQL Database Development
-  * Graphql & RESTful APIs Implementation
+  * Websocket, gRPC, Graphql, RESTful APIs Implementation
   * Cloud Computing and DevOps technologies
   * Mobile application Development, Android & iOS, Kotlin, Swift & MVVM
   * Agile and Scrum methodology
@@ -32,8 +32,11 @@
 ## Working Experience
 
 ### Principal Software Engineer, Noodoe Inc., 2019.02 - Present
-  * Developed and maintained backend services for applications by NestJS
-  * Developed and maintained Android applications
+  * Developed web applications facing EV commercial requirements by MongoDB, MySQL, Redis, and Apollo GraphQL
+  * To achieve multiple branding management and development, now there are more than 10 white labels, and it’s growing
+  * Developed and designed account system and third-party integrations, Google sign in, Facebook sign in, and Apple sign in
+  * Design and develop membership mechanism and schema
+  * Develop multiple IoT Android applications, including motorcycle electronic dashboards, and electric vehicle charging station services, using Kotlin Coroutine and MVVM
   * Worked with the team to develop new features and enhance existing ones
   * Provided technical support and troubleshooting
 
