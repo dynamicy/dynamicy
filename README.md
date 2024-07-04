@@ -25,6 +25,7 @@
   * Backend Frameworks: Node.js, Nest.js, Java Spring Boot
   * Cloud & DevOps: AWS EC2, S3, Cloud Watch, Secret Manager, docker, k8s, jenkins, MongoDB
   * Mobile Development: Android & iOS, Kotlin, Swift, MVVM
+  * Programming Languages: TypeScript, JavaScript, Java, Kotlin, Swift, Shell Scripting
   * Methodologies: Agile, Scrum
 
 ## Working Experience
