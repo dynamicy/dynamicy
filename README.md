@@ -1,75 +1,103 @@
 ### Hi there 👋
 
-<h1 align="center">Chris</h1>
+<h1 align="center">Chris (Sin-Wun Huang)</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sinwun"><img src="https://img.shields.io/badge/-SinWun%20Huang-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:chris@csie.io"><img src="https://img.shields.io/badge/-chris@csie.io-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sinwun"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:chris@csie.io"><img src="https://img.shields.io/badge/Email-chris@csie.io-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://medium.com/@dynamicy"><img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
-## GitHub Stats
+<!-- Top: GitHub Stats -->
+<p align="center">
+  <a href="https://github.com/dynamicy">
+    <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dynamicy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dynamicy&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 <p align="center">
-<a href="https://github.com/dynamicy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dynamicy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dynamicy&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="#professional-summary">Summary</a> •
+  <a href="#tech-snapshot">Tech</a> •
+  <a href="#highlights-impact">Highlights</a> •  
+  <a href="#experience">Experience</a> •
+  <a href="#open-source-contributions">OSS</a>
 </p>
+
+---
 
 ## Professional Summary
-  A seasoned software engineer with nearly 10 years of experience in software development, application maintenance & support, and project execution. Proven track record of contributing to highly collaborative work environments, driving solutions, and enhancing customer satisfaction. Expert in designing and developing web applications across multiple APIs, third-party integrations, and databases. Passionate about crafting customized solutions that prioritize accessibility, readability, and security.
+Principal Software Engineer with 10+ years delivering **scalable web, mobile, and IoT platforms**. Expertise in **system architecture, API design, multi-tenant solutions**, with a strong focus on **reliability, security, and team enablement**.
 
-## Technical Skills & Competencies
-  * Databases: MongoDB, MySQL
-  * API Implementation: WebSocket, gRPC, GraphQL, RESTful APIs
-  * Backend Frameworks: Node.js, Nest.js, Java Spring Boot
-  * Cloud & DevOps: AWS EC2, S3, Cloud Watch, Secret Manager, docker, k8s, jenkins, MongoDB
-  * Mobile Development: Android & iOS, Kotlin, Swift, MVVM
-  * Programming Languages: TypeScript, JavaScript, Java, Kotlin, Swift, Shell Scripting
-  * Methodologies: Agile, Scrum
+---
 
-## Working Experience
+## Tech Snapshot
+**Databases & Storage:** PostgreSQL, MySQL, MongoDB, Redis, S3  
+**APIs & Integration:** REST, GraphQL, gRPC, WebSocket; Google/Apple/Facebook sign-in  
+**Backend:** Node.js, Nest.js, FastAPI, Spring Boot  
+**Cloud & DevOps:** AWS (EC2/ECS/S3/IoT Core/CloudWatch/Secret Manager), Docker, Kubernetes, Jenkins, GitHub Actions  
+**Mobile:** Android (Kotlin, MVVM), iOS (Swift, MVVM)  
+**Languages:** TypeScript, JavaScript (ES6+), Java, Kotlin, Swift, Python, C, Shell  
+**Practices:** Agile/Scrum, System Design, Scalability & Reliability Engineering
 
-### Principal Software Engineer, Noodoe Inc., 2019.02 - Present
-  * Lead Developer for EV Solutions: Spearheaded the architecture and development of web applications tailored for electric vehicle (EV) commercial requirements, using MongoDB, MySQL, Redis, and Apollo GraphQL. Improved data handling and user interface which led to a 50% increase in system efficiency.
-  * Brand Management and Expansion: Managed and scaled the development of over 10 white-label brands, which increased company revenue by 20% and enhanced market reach.
-  * Third-Party Integration Specialist: Orchestrated the integration of major third-party services like Google, Facebook, and Apple sign-in mechanisms, simplifying the user experience and increasing the registration conversion rates by over 40%.
-  * IoT Innovations in Automotive Technology: Developed multiple IoT Android applications for motor vehicles, focusing on electronic dashboards and EV charging stations, using Kotlin Coroutine and MVVM. Achieved a 30% reduction in customer complaints due to improved application stability and user interface design.
-  * Team Collaboration and Leadership: Led a team in agile project management settings, mentoring junior developers and aligning project objectives with business goals.
+---
 
-  #### Project
-    * Noodoe EV Cloud
-    * Noodoe EV Application
-    * Mobile Application with iBeacon
-    * Testing Tool for factory
-    * Application with BT Dashboard
-    
-### Senior Software Engineer, Optoma Corp., 2018.01 - 2019.02
-  * Cross-Platform Mobile Application Development: Designed and developed high-performance mobile applications for both Android and iOS platforms, focusing on optimizing user experience and increasing performance metrics by 25%.
-  * Customer-Centric Feature Implementation: Implemented new features based on direct customer feedback and requirements analysis, which resulted in a 20% increase in user retention and customer satisfaction.
-  * Performance Optimization: Enhanced application performance through meticulous code refinement and adopting new technologies, leading to faster load times and a smoother user experience.
-  
-  #### Project
-    * Infowall Service and Applications    
+## Highlights (Impact)
+- **Remote Lock Ecosystem (Edge ↔ Cloud):** Self-hosted **EMQX** backbone + Edge Server Supervisor; multi-tenant, multi-channel reliability at scale.  
+- **Cloud Data Integrity:** Event normalization, schema migrations, and observability → safer releases & faster diagnosis.  
+- **Release Governance:** Versioning standards, Slack-integrated PR notifications, auto-changelog → consistent, low-risk delivery.  
+- **White-Label Platform:** Multi-tenant architecture powering **10+ brands**; reusable components accelerated time-to-market.  
+- **Identity Strategy:** Google/Apple/Facebook authentication; simplified onboarding and broader adoption.
 
-### Software Engineer, Unistar Talent Ltd., 2014.11 - 2017.10
-  * Enterprise Web Solutions: Led the development of several large-scale customer-facing web applications using Java technologies (EJB, Serialization, JDBC, Java Beans). These projects significantly improved the scalability and performance of the platform.
-  * Android Application Leadership: Managed the full lifecycle of Android application development, from concept through delivery and post-launch support, reducing crash rates by 35% and enhancing user engagement.
-  * Front-End Development: Contributed to the enhancement of the front-end architecture using JavaScript, jQuery, and React JS. Focused on optimizing code structure and improving the efficiency of the user interface components, which resulted in smoother interactions and a more responsive user experience.
-  * Professional Development: Actively engaged in continuous learning, attending workshops on modern development practices and software architecture, ensuring the application of up-to-date technology solutions in projects.
-   
-  #### Project
-    * Mobile Platform and Application 
-    * Automation
-    
-## Contributions & Certifications
-  * Android associate developer certification, “Certificate #1493, https://www.credential.net/touru59d”.
-  * Cisco systems certificate of completion, “Interconnecting Cisco Network Devices”.
-  * https://github.com/googlemaps/android-maps-utils/pull/535
-  * https://github.com/TheCodedSelf/SwiftCron/pull/21
+---
 
-## Personal Interests
-![2017_Kyoto](https://github.com/dynamicy/dynamicy/blob/main/2017_kyoto_marathon.jpeg?raw=true)
-![2017_taipei](https://github.com/dynamicy/dynamicy/blob/main/2017_taipei_marathon.jpeg?raw=true)
-![2018_kobe](https://github.com/dynamicy/dynamicy/blob/main/2018_kobe_marathon.jpeg?raw=true)
-![2018_taipei](https://github.com/dynamicy/dynamicy/blob/main/2018_taipei_marathon.jpeg?raw=true)
+## Experience
+
+### Morespace Corp. — Software Engineer (Apr 2025 ~ Present)
+- Remote lock architecture (Soyal + **self-hosted EMQX**) with Edge Server Supervisor; multi-tenant, multi-channel reliability.
+- Cloud modernization: event normalization, schema migrations (Alembic), structured logging/observability.
+- Release governance: versioning standards, PR→Slack notifications, automated changelog for consistent delivery.
+- Deployment & OTA: multi-arch Docker images (amd64/arm64), progressive OTA (alpha→beta→stable + rollback).
+- Culture: documentation-first (Confluence specs/playbooks) and technical workshops (FastAPI perf, ORM best practices).
+
+### Senao Corp. — Senior Principal Software Engineer (Oct 2024 ~ Jan 2025)
+- ERP system refactoring to a modular, scalable, fault-tolerant architecture.
+- AWS Cognito adoption for standards-based IAM across services.
+- EDI migration with real-time synchronization and zero major disruptions.
+- APM rollout to detect/resolve slow APIs; improved responsiveness and visibility.
+- BPM system with secure Cognito integration and automated testing for workflow automation.
+
+### Noodoe Inc. — Principal Software Engineer (Feb 2019 ~ Mar 2024)
+- EV web platform architecture (MongoDB/MySQL/Redis/Apollo GraphQL) focused on scalability and data reliability.
+- Multi-tenant **white-label platform** powering **10+ brands** with reusable components and faster time-to-market.
+- Identity strategy: Google/Apple/Facebook sign-in; streamlined onboarding and adoption.
+- Android IoT apps (dashboards/charging) using Kotlin Coroutines + MVVM; improved stability and UX.
+- Technical leadership: principal architect/mentor; agile practices and engineering standards.
+
+### Optoma Corp. — Senior Software Engineer (Jan 2018 ~ Feb 2019)
+- Cross-platform Android/iOS delivery focused on rendering/memory/network optimizations (Crashlytics/Play Console tracked).
+- Customer-centric features based on user/support feedback; improved retention and satisfaction signals.
+- Performance engineering: profiling, ANR/crash monitoring, image caching, lazy loading, offline strategies.
+
+### Unistar Talent Ltd. — Software Engineer (Nov 2014 ~ Oct 2017)
+- Enterprise Java web apps (EJB/JDBC/Java Beans) for scalability and performance.
+- Android app lifecycle ownership from concept to post-launch stability.
+- Front-end architecture improvements (React/jQuery); faster, smoother UI.
+- Continuous learning applied from modern development and architecture workshops.
+
+### Qisda Corp. — Embedded Tool Software Engineer (Apr 2010 ~ Jan 2011)
+- Embedded tools for production line integration/automation; efficient hardware config & performance testing.
+- Factory automation to reduce manual steps and enhance production stability/quality.
+- Rapid onsite debugging and performance optimizations to reduce downtime.
+- Cross-functional collaboration with hardware engineers; training and tech support.
+
+### Aximcom Ltd. — Embedded Software Engineer (Nov 2009 ~ Mar 2010)
+- Firmware feature contributions; nvram rules and automation scripts.
+- Assisted feature development/debugging to meet specifications reliably.
+- Built foundations in embedded systems through mentorship and documentation support.
+
+---
+
+## Open-Source Contributions
+- Google Maps Android Utils — PR [#535](https://github.com/googlemaps/android-maps-utils/pull/535)  
+- SwiftCron — PR [#21](https://github.com/TheCodedSelf/SwiftCron/pull/21)
