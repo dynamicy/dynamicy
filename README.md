@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Chris (Sin-Wun Huang)</h1>
+<h1 align="center">Chris</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sinwun"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
