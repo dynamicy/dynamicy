@@ -99,5 +99,6 @@ Principal Software Engineer with 10+ years delivering **scalable web, mobile, an
 ---
 
 ## Open-Source Contributions
-- Google Maps Android Utils — PR [#535](https://github.com/googlemaps/android-maps-utils/pull/535)  
+- Simplify tests for response_model - PR [#14062](https://github.com/fastapi/fastapi/pull/14062)
+- Google Maps Android Utils — PR [#535](https://github.com/googlemaps/android-maps-utils/pull/535)
 - SwiftCron — PR [#21](https://github.com/TheCodedSelf/SwiftCron/pull/21)
