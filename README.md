@@ -99,6 +99,7 @@ Principal Software Engineer with 10+ years delivering **scalable web, mobile, an
 ---
 
 ## Open-Source Contributions
+- Homebrew - PR [#20771](https://github.com/Homebrew/brew/pull/20771)
 - fastapi - PR [#14062](https://github.com/fastapi/fastapi/pull/14062)
 - Google Maps Android Utils — PR [#535](https://github.com/googlemaps/android-maps-utils/pull/535)
 - SwiftCron — PR [#21](https://github.com/TheCodedSelf/SwiftCron/pull/21)
