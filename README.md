@@ -1,6 +1,52 @@
-### Hi there 👋
+<!-- ───────────────────────────  STAR-WARS STYLE PROFILE  ─────────────────────────── -->
 
-<h1 align="center">Chris</h1>
+<p align="center"><sub>A long time ago, in a repo far, far away…</sub></p>
+
+<h1 align="center">CHRIS</h1>
+<p align="center"><b>EPISODE OSS — THE COMMIT AWAKENS</b></p>
+
+<!-- Starfield -->
+<p align="center">
+  <svg width="420" height="48" viewBox="0 0 420 48" role="img" aria-label="starfield">
+    <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#ffe27a"/><stop offset="1" stop-color="#ffd95a"/></linearGradient></defs>
+    <circle cx="22"  cy="12" r="1.6" fill="url(#g)"/><circle cx="72"  cy="20" r="1.1" fill="#fff3b0"/>
+    <circle cx="126" cy="8"  r="1.3" fill="url(#g)"/><circle cx="178" cy="28" r="1.7" fill="#fff3b0"/>
+    <circle cx="226" cy="14" r="1.2" fill="url(#g)"/><circle cx="270" cy="22" r="1.4" fill="#fff3b0"/>
+    <circle cx="324" cy="10" r="1.3" fill="url(#g)"/><circle cx="44"  cy="36" r="1.2" fill="#ffd95a"/>
+    <circle cx="102" cy="38" r="1.0" fill="#ffe27a"/><circle cx="204" cy="40" r="1.3" fill="#fff3b0"/>
+    <circle cx="294" cy="32" r="1.1" fill="#ffe27a"/><circle cx="360" cy="18" r="1.1" fill="#ffd95a"/>
+  </svg>
+</p>
+
+<p align="center">
+  A README crawl glides across the void…<br/>
+  Small commits spark joy. Docs cut through fog. CI learns manners.<br/>
+  Tests strike back. Linters return. Merges land with tidy titles.
+</p>
+
+<!-- Duel of the Sabers -->
+<p align="center">
+  <svg width="320" height="16" viewBox="0 0 320 16" role="img" aria-label="lightsabers">
+    <rect x="28"  y="7" width="125" height="2" fill="#22d3ee"/><rect x="168" y="7" width="125" height="2" fill="#ef4444"/>
+    <rect x="150" y="4" width="10" height="8" fill="#111827"/><rect x="160" y="4" width="10" height="8" fill="#111827"/>
+  </svg>
+</p>
+
+<p align="center"><b>HOLOCRON RECORDS — OPEN-SOURCE CAMEOS</b></p>
+
+<!-- Centered column; left-aligned list (center-left effect) -->
+<div align="center">
+  <div align="left" style="display:inline-block; max-width:640px;">
+    <ul>
+      <li>Homebrew — PR <a href="https://github.com/Homebrew/brew/pull/20771">#20771</a></li>
+      <li>FastAPI — PR <a href="https://github.com/fastapi/fastapi/pull/14062">#14062</a></li>
+      <li>Google Maps Android Utils — PR <a href="https://github.com/googlemaps/android-maps-utils/pull/535">#535</a></li>
+      <li>SwiftCron — PR <a href="https://github.com/TheCodedSelf/SwiftCron/pull/21">#21</a></li>
+    </ul>
+  </div>
+</div>
+
+<p align="center"><b>COMMS CHANNELS</b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sinwun"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -8,98 +54,47 @@
   <a href="https://medium.com/@dynamicy"><img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
-<!-- Top: GitHub Stats -->
+---
+
+## GitHub Stats (Starlog)
+
+<!-- Renamed titles on your requested cards -->
 <p align="center">
   <a href="https://github.com/dynamicy">
-    <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dynamicy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dynamicy&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="160" alt="Chris’s GitHub Statistics"
+         src="https://github-readme-stats-eight-theta.vercel.app/api?username=dynamicy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=Chris%27s%20GitHub%20Statistics"/>
+    <img height="160" alt="Chris’s Programming Languages"
+         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dynamicy&layout=compact&langs_count=8&theme=algolia&title=Chris%27s%20Programming%20Languages"/>
   </a>
 </p>
 
+<!-- Keep streak; swap the bland contribution graph for a playful “holocron badges” row and a lightsaber meter -->
 <p align="center">
-  <a href="#professional-summary">Summary</a> •
-  <a href="#tech-snapshot">Tech</a> •
-  <a href="#highlights-impact">Highlights</a> •  
-  <a href="#experience">Experience</a> •
-  <a href="#open-source-contributions">OSS</a>
+  <img height="190" src="https://streak-stats.demolab.com?user=dynamicy&theme=algolia&hide_border=true&date_format=%5BY%5D%20M%20j" alt="GitHub Streak"/>
 </p>
 
----
+<!-- Holocron badges (trophies) — fixed endpoint -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dynamicy&row=1&column=7&theme=algolia&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
+</p>
 
-## Professional Summary
-Principal Software Engineer with 10+ years delivering **scalable web, mobile, and IoT platforms**. Expertise in **system architecture, API design, multi-tenant solutions**, with a strong focus on **reliability, security, and team enablement**.
+<!-- Lightsaber meter (fun replacement for contribution graph) -->
+<p align="center">
+  <svg width="520" height="60" viewBox="0 0 520 60" role="img" aria-label="Lightsaber Meter">
+    <defs>
+      <linearGradient id="blade" x1="0" x2="1">
+        <stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#60a5fa"/>
+      </linearGradient>
+      <filter id="glow"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    </defs>
+    <!-- hilt -->
+    <rect x="20" y="26" width="34" height="8" fill="#111827" rx="2"/>
+    <rect x="54" y="26" width="8" height="8" fill="#374151"/>
+    <!-- blade -->
+    <rect x="62" y="28" width="420" height="4" fill="url(#blade)" filter="url(#glow)"/>
+    <text x="20" y="20" fill="#93c5fd" font-size="14" font-family="Segoe UI, Roboto, Helvetica, Arial">Jedi Merge Meter</text>
+    <text x="490" y="20" fill="#93c5fd" font-size="12" font-family="Segoe UI, Roboto, Helvetica, Arial" text-anchor="end">∞ PRs to master the Force</text>
+  </svg>
+</p>
 
----
-
-## Tech Snapshot
-**Databases & Storage:** PostgreSQL, MySQL, MongoDB, Redis, S3  
-**APIs & Integration:** REST, GraphQL, gRPC, WebSocket; Google/Apple/Facebook sign-in  
-**Backend:** Node.js, Nest.js, FastAPI, Spring Boot  
-**Cloud & DevOps:** AWS (EC2/ECS/S3/IoT Core/CloudWatch/Secret Manager), Docker, Kubernetes, Jenkins, GitHub Actions  
-**Mobile:** Android (Kotlin, MVVM), iOS (Swift, MVVM)  
-**Languages:** TypeScript, JavaScript (ES6+), Java, Kotlin, Swift, Python, C, Shell  
-**Practices:** Agile/Scrum, System Design, Scalability & Reliability Engineering
-
----
-
-## Highlights (Impact)
-- **Remote Lock Ecosystem (Edge ↔ Cloud):** Self-hosted **EMQX** backbone + Edge Server Supervisor; multi-tenant, multi-channel reliability at scale.  
-- **Cloud Data Integrity:** Event normalization, schema migrations, and observability → safer releases & faster diagnosis.  
-- **Release Governance:** Versioning standards, Slack-integrated PR notifications, auto-changelog → consistent, low-risk delivery.  
-- **White-Label Platform:** Multi-tenant architecture powering **10+ brands**; reusable components accelerated time-to-market.  
-- **Identity Strategy:** Google/Apple/Facebook authentication; simplified onboarding and broader adoption.
-
----
-
-## Experience
-
-### Morespace Corp. — Software Engineer (Apr 2025 ~ Present)
-- Remote lock architecture (Soyal + **self-hosted EMQX**) with Edge Server Supervisor; multi-tenant, multi-channel reliability.
-- Cloud modernization: event normalization, schema migrations (Alembic), structured logging/observability.
-- Release governance: versioning standards, PR→Slack notifications, automated changelog for consistent delivery.
-- Deployment & OTA: multi-arch Docker images (amd64/arm64), progressive OTA (alpha→beta→stable + rollback).
-- Culture: documentation-first (Confluence specs/playbooks) and technical workshops (FastAPI perf, ORM best practices).
-
-### Senao Corp. — Senior Principal Software Engineer (Oct 2024 ~ Jan 2025)
-- ERP system refactoring to a modular, scalable, fault-tolerant architecture.
-- AWS Cognito adoption for standards-based IAM across services.
-- EDI migration with real-time synchronization and zero major disruptions.
-- APM rollout to detect/resolve slow APIs; improved responsiveness and visibility.
-- BPM system with secure Cognito integration and automated testing for workflow automation.
-
-### Noodoe Inc. — Principal Software Engineer (Feb 2019 ~ Mar 2024)
-- EV web platform architecture (MongoDB/MySQL/Redis/Apollo GraphQL) focused on scalability and data reliability.
-- Multi-tenant **white-label platform** powering **10+ brands** with reusable components and faster time-to-market.
-- Identity strategy: Google/Apple/Facebook sign-in; streamlined onboarding and adoption.
-- Android IoT apps (dashboards/charging) using Kotlin Coroutines + MVVM; improved stability and UX.
-- Technical leadership: principal architect/mentor; agile practices and engineering standards.
-
-### Optoma Corp. — Senior Software Engineer (Jan 2018 ~ Feb 2019)
-- Cross-platform Android/iOS delivery focused on rendering/memory/network optimizations (Crashlytics/Play Console tracked).
-- Customer-centric features based on user/support feedback; improved retention and satisfaction signals.
-- Performance engineering: profiling, ANR/crash monitoring, image caching, lazy loading, offline strategies.
-
-### Unistar Talent Ltd. — Software Engineer (Nov 2014 ~ Oct 2017)
-- Enterprise Java web apps (EJB/JDBC/Java Beans) for scalability and performance.
-- Android app lifecycle ownership from concept to post-launch stability.
-- Front-end architecture improvements (React/jQuery); faster, smoother UI.
-- Continuous learning applied from modern development and architecture workshops.
-
-### Qisda Corp. — Embedded Tool Software Engineer (Apr 2010 ~ Jan 2011)
-- Embedded tools for production line integration/automation; efficient hardware config & performance testing.
-- Factory automation to reduce manual steps and enhance production stability/quality.
-- Rapid onsite debugging and performance optimizations to reduce downtime.
-- Cross-functional collaboration with hardware engineers; training and tech support.
-
-### Aximcom Ltd. — Embedded Software Engineer (Nov 2009 ~ Mar 2010)
-- Firmware feature contributions; nvram rules and automation scripts.
-- Assisted feature development/debugging to meet specifications reliably.
-- Built foundations in embedded systems through mentorship and documentation support.
-
----
-
-## Open-Source Contributions
-- Homebrew - PR [#20771](https://github.com/Homebrew/brew/pull/20771)
-- fastapi - PR [#14062](https://github.com/fastapi/fastapi/pull/14062)
-- Google Maps Android Utils — PR [#535](https://github.com/googlemaps/android-maps-utils/pull/535)
-- SwiftCron — PR [#21](https://github.com/TheCodedSelf/SwiftCron/pull/21)
+<p align="center"><sub>Open before closed. Be kind in reviews. Ship small.</sub></p>
